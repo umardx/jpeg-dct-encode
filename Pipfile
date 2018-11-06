@@ -12,6 +12,7 @@ ipython = "*"
 opencv-python = "*"
 pandas = "*"
 matplotlib = "*"
+rise = "*"
 
 [dev-packages]
 
