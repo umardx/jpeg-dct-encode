@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pillow = "*"
+xlsxwriter = "*"
+jupyter = "*"
+ipython = "*"
+opencv-python = "*"
+pandas = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
